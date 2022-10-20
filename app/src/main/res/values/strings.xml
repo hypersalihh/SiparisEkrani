@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SiparisKullaniciAdresi</string>
+    <string name="iletisimbilgileri">İletişim Bilgileri</string>
+    <string name="adresbilgileri">Adres Bilgileri</string>
+    <string name="ad">Ad</string>
+    <string name="soyad">Soyad</string>
+    <string name="ceptelefonu">Cep Telefonu</string>
+    <string name="hintmahalle">Mahalle</string>
+    <string name="hintadressatiri">Adres Satırı 1</string>
+    <string name="hintadres1">Açık adres, P.O. kutusu, şirket adı</string>
+    <string name="hintadres2">Apartmani, daire, ünite, kat vb.</string>
+    <string name="hintadresbasligi">Adres Başlığı; Ev, iş yeri vb.</string>
+    <string name="hintpostakodu">Posta kodu</string>
+    <string name="hinttckimlikno">T.C. Kimlik No</string>
+    <string name="hintulke">Ülke/Bölge</string>
+    <string name="kaydet">Kaydet</string>
+    
+</resources>
